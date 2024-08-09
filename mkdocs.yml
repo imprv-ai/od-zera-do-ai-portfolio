@@ -1,0 +1,15 @@
+# Project information
+site_name: Portfolio
+site_url: https://imprv-ai.github.io/od-zera-do-ai-portfolio/
+site_author: IMPRV.ai dev team and supporters
+site_description: >-
+  Strona zawierająca zbiór projektów związanych z uczeniem maszynowym, analizą danych i sztuczną inteligencją.
+  Wszystkie projekty zostały stworzone przez uczestników kursu "Od zera do AI" organizowanego przez IMPRV.ai i GoToIT.
+
+# Repository
+repo_name: imprv-ai/od-zera-do-ai-portfolio
+repo_url: https://github.com/imprv-ai/od-zera-do-ai-portfolio
+
+# Configuration
+theme:
+  name: material
