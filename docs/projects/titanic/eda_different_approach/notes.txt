@@ -1,3 +1,3 @@
-analiza danych z titanic koncentrująca się na wieku i płci pasażerów
+analiza danych z titanica koncentrująca się na wieku i płci pasażerów
 szczególne uzwględnienie dzieci
 oraz analiza szalup i ich wypełnienia

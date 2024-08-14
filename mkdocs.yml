@@ -22,14 +22,16 @@ theme:
 
 nav:
   - Eksploracja danych - półmaraton Wrocław 2023:
-    - O projekcie: projekty/eda_wrocław_halfmarathon/index.md
+    - O projekcie: projects/eda_wrocław_halfmarathon/index.md
   - Analiza Irysów:
-    - O projekcie: projekty/iris/index.md
+    - O projekcie: projects/iris/index.md
   - Titanic:
-    - O projekcie: projekty/titanic/index.md
-    - Historia Przeżywalności i Tajemnice Budowy Statku: projekty/titanic/history_of_survivability_and_secrets_of_shipbuilding/index.md
-    - "Wnikliwa Analiza EDA: Odkryj Ukryte Zależności w Twoich Danych": projekty/titanic/in_depth_analysis_eda/index.md
+    - O projekcie: projects/titanic/index.md
+    - Historia Przeżywalności i Tajemnice Budowy Statku: projects/titanic/history_of_survivability_and_secrets_of_shipbuilding/index.md
+    - "Wnikliwa Analiza EDA: Odkryj Ukryte Zależności w Twoich Danych": projects/titanic/in_depth_analysis_eda/index.md
+    - "Analiza Danych z Titanica: Wiek, Płeć i Szalupy Ratunkowe": projects/titanic/eda_different_approach/index.md
 
   - Uczestnicy:
+    - Maciej Lubaszka: uczestnicy/maciej_lubaszka.md
     - Natalia Swojak: uczestnicy/natalia_swojak.md
     - Rafał Ney: uczestnicy/rafal_ney.md

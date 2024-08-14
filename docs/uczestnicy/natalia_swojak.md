@@ -5,4 +5,4 @@
 
 ## Projekty
 
-- [Titanic: Historia Przeżywalności i Tajemnice Budowy Statku](/od-zera-do-ai-portfolio/projekty/titanic/history_of_survivability_and_secrets_of_shipbuilding/)
+- [Wnikliwa Analiza Danych z Titanica](/od-zera-do-ai-portfolio/projects/titanic/in_depth_analysis_eda/)
