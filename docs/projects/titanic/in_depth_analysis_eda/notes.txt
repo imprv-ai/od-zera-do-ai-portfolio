@@ -1,0 +1,3 @@
+Wspaniała, gruntownie wykonana analiza EDA.
+Możemy odkryć zaleźności pomiędzy kolumnami, a także zobaczyć jakie są najważniejsze cechy w naszym zbiorze danych.
+Dużo kreatowności np. w skonstruowaniu tzw. `survival score`

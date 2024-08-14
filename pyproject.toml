@@ -1,15 +1,21 @@
 [tool.poetry]
-name = "od-zera-do-ai-faq"
+name = "od-zera-do-ai-portfolio"
 version = "0.1.0"
 description = ""
-authors = ["Maciej Sobczak <964938+maciejATcosphere@users.noreply.github.com>"]
+authors = ["imprv.ai dev team <dev@imprv.ai>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
 mkdocs = "^1.6.0"
 mkdocs-material = "^9.5.31"
+nbconvert = "^7.16.4"
+pandoc = "^2.4"
+python-dotenv = "^1.0.1"
+openai = "^1.40.6"
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]
