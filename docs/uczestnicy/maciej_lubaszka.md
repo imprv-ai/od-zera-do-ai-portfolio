@@ -1,7 +1,7 @@
 
 # Maciej Lubaszka
 
-to be added...
+[GitHub](https://github.com/N1ghtmarecus)
 
 ## Projekty
 
