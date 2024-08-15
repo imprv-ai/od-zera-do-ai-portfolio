@@ -28,8 +28,10 @@ nav:
     - "Tajemnice Wrocławskiego Półmaratonu 2023: Analiza EDA": projects/eda_wroclaw_halfmarathon/eda_with_passion/index.md
     - "Fascynująca Analiza EDA Półmaratonu Wrocławskiego 2023": projects/eda_wroclaw_halfmarathon/eda_edge_cases/index.md
 
-  - Analiza Irysów:
+  - Irysy:
     - O projekcie: projects/iris/index.md
+    - "Analiza Eksploracyjna Danych (EDA) Zbioru Irysów - Perspektywa Natalii": projects/iris/eda_with_ml_preparation/index.md
+    - "Fascynująca Analiza Danych EDA Irysów: Eksploracja Domenowa": projects/iris/eda_with_domain_exploration/index.md
 
   - Titanic:
     - O projekcie: projects/titanic/index.md
@@ -37,11 +39,13 @@ nav:
     - "Wnikliwa Analiza EDA: Odkryj Ukryte Zależności w Twoich Danych": projects/titanic/in_depth_analysis_eda/index.md
     - "Analiza Danych z Titanica: Wiek, Płeć i Szalupy Ratunkowe": projects/titanic/eda_different_approach/index.md
     - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
+    - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
 
   - Uczestnicy:
     - Andrzej: uczestnicy/andrzej.md
     - Dariusz Samól: uczestnicy/dariusz_samol.md
     - Dawid: uczestnicy/dawid.md
+    - Grzegorz: uczestnicy/grzegorz.md
     - Maciej Lubaszka: uczestnicy/maciej_lubaszka.md
     - Natalia Swojak: uczestnicy/natalia_swojak.md
     - Rafał Ney: uczestnicy/rafal_ney.md
