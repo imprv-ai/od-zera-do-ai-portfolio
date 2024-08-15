@@ -1,7 +1,7 @@
 
 # Analiza Danych poświęconych katastrofie Titanica
 
-![Titanic](../assets/RMS_Titanic_3.jpg)
+![](../assets/titanic.jpg)
 
 Katastrofa Titanica, jednego z najbardziej znanych transatlantyków w historii, pozostaje do dziś symbolem tragedii na morzu. W nocy z 14 na 15 kwietnia 1912 roku, Titanic zderzył się z górą lodową podczas swojego dziewiczego rejsu, co doprowadziło do jego zatonięcia i śmierci ponad 1500 osób. Ta tragedia wciąż budzi emocje i skłania do refleksji nad losem pasażerów oraz konstrukcją statku, który miał być niezatapialny.
 

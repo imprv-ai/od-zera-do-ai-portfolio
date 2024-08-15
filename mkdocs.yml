@@ -22,16 +22,27 @@ theme:
 
 nav:
   - Eksploracja danych - półmaraton Wrocław 2023:
-    - O projekcie: projects/eda_wrocław_halfmarathon/index.md
+    - O projekcie: projects/eda_wroclaw_halfmarathon/index.md
+    - EDA danych z półmaratonu Wrocławskiego 2023 w formie prezentacji: projects/eda_wroclaw_halfmarathon/eda_as_presentation/index.md
+    - Dokładna Analiza EDA Danych z Półmaratonu we Wrocławiu 2023: projects/eda_wroclaw_halfmarathon/eda_extensive_with_video_comment/index.md
+    - "Tajemnice Wrocławskiego Półmaratonu 2023: Analiza EDA": projects/eda_wroclaw_halfmarathon/eda_with_passion/index.md
+    - "Fascynująca Analiza EDA Półmaratonu Wrocławskiego 2023": projects/eda_wroclaw_halfmarathon/eda_edge_cases/index.md
+
   - Analiza Irysów:
     - O projekcie: projects/iris/index.md
+
   - Titanic:
     - O projekcie: projects/titanic/index.md
     - Historia Przeżywalności i Tajemnice Budowy Statku: projects/titanic/history_of_survivability_and_secrets_of_shipbuilding/index.md
     - "Wnikliwa Analiza EDA: Odkryj Ukryte Zależności w Twoich Danych": projects/titanic/in_depth_analysis_eda/index.md
     - "Analiza Danych z Titanica: Wiek, Płeć i Szalupy Ratunkowe": projects/titanic/eda_different_approach/index.md
+    - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
 
   - Uczestnicy:
+    - Andrzej: uczestnicy/andrzej.md
+    - Dariusz Samól: uczestnicy/dariusz_samol.md
+    - Dawid: uczestnicy/dawid.md
     - Maciej Lubaszka: uczestnicy/maciej_lubaszka.md
     - Natalia Swojak: uczestnicy/natalia_swojak.md
     - Rafał Ney: uczestnicy/rafal_ney.md
+    - Patryk: uczestnicy/patryk.md

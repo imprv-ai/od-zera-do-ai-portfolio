@@ -1,0 +1,3 @@
+analiza danych z titanica
+analiza koncentrująca się na pojedynczych zmiennych
+ciekawe wnioski

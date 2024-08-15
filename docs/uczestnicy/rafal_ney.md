@@ -5,4 +5,5 @@ to be added...
 
 ## Projekty
 
+- [Tajemnice Wrocławskiego Półmaratonu 2023: Analiza EDA](/od-zera-do-ai-portfolio/projects/eda_wroclaw_halfmarathon/eda_with_passion/)
 - [Titanic: Historia Przeżywalności i Tajemnice Budowy Statku](/od-zera-do-ai-portfolio/projekty/titanic/history_of_survivability_and_secrets_of_shipbuilding/)
