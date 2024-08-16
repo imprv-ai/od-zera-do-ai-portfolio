@@ -1,7 +1,8 @@
 
 # Dawid
 
-to be added...
+Chciałbym używać narzędzi AI do analizy danych przy projektach z life science lub dynamiki społecznej. Docelowo w biochemii. 
+Natomiast, druga strona medalu to taka, w której AI i ML pokrywają się z profilem Lifelong Learner.
 
 ## Projekty
 
