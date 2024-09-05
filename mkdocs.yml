@@ -41,6 +41,10 @@ nav:
     - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
     - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
 
+  - Aplikacja do przeglądy wyników ankiety powitalnej:
+    - O projekcie: projects/survey_overview_app/index.md
+    - Kolor i ujmująca prostota: projects/survey_overview_app/colors_and_simplicity/index.md
+
   - Uczestnicy:
     - Andrzej: uczestnicy/andrzej.md
     - Dariusz Samól: uczestnicy/dariusz_samol.md
@@ -50,3 +54,4 @@ nav:
     - Natalia Swojak: uczestnicy/natalia_swojak.md
     - Rafał Ney: uczestnicy/rafal_ney.md
     - Patryk: uczestnicy/patryk.md
+    - Karol Zdańkowski: uczestnicy/karol_zdankowski.md
