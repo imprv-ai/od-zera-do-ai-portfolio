@@ -41,7 +41,7 @@ nav:
     - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
     - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
 
-  - Aplikacja do przeglądy wyników ankiety powitalnej:
+  - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
     - Kolor i ujmująca prostota: projects/survey_overview_app/colors_and_simplicity/index.md
     - Analizuj, Łącz, Odkrywaj!: projects/survey_overview_app/analyze_connect_discover/index.md
