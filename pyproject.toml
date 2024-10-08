@@ -16,6 +16,9 @@ openai = "^1.40.6"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
+openai = "^1.51.2"
+python-dotenv = "^1.0.1"
+nbconvert = "^7.16.4"
 
 [build-system]
 requires = ["poetry-core"]
