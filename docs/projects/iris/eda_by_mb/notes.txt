@@ -1,0 +1,3 @@
+analiza danych EDA irysów z wykorzystaniem eksploracji domenowej
+autorem jest Michał
+skrupulatna analiza z pieknymi wizualizacjami
