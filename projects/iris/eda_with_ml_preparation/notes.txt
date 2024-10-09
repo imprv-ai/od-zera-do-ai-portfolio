@@ -1,0 +1,3 @@
+świetnie wykonana EDA dla zbioru irysów przez Natalię.
+Punkt widzenia Natalii jest bardzo ciekawy i wartościowy.
+przygotowanie pod użycie danych do trenowania modelu ML
