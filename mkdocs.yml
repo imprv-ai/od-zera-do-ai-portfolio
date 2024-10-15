@@ -33,6 +33,7 @@ nav:
     - "Analiza Eksploracyjna Danych (EDA) Zbioru Irysów - Perspektywa Natalii": projects/iris/eda_with_ml_preparation/index.md
     - "Fascynująca Analiza Danych EDA Irysów: Eksploracja Domenowa": projects/iris/eda_with_domain_exploration/index.md
     - "Skrupulatna Analiza Danych EDA zbioru o Irysach" : projects/iris/eda_by_mb/index.md
+    - "Analiza Danych EDA Irysów: Eksploracja Domenowa" : projects/iris/eda_by_michal_pecyna/index.md
 
   - Titanic:
     - O projekcie: projects/titanic/index.md
@@ -58,3 +59,4 @@ nav:
     - Patryk: uczestnicy/patryk.md
     - Karol Zdańkowski: uczestnicy/karol_zdankowski.md
     - Michał (MB): uczestnicy/mb.md
+    - Michał Pecyna: uczestnicy/michal_pecyna.md
