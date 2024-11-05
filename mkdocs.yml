@@ -42,6 +42,7 @@ nav:
     - "Analiza Danych z Titanica: Wiek, Płeć i Szalupy Ratunkowe": projects/titanic/eda_different_approach/index.md
     - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
     - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
+    - "Analiza Danych z Titanica: Odkryj Historię na Nowo": projects/titanic/eda_by_grzegorz_jaworucki/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
@@ -57,6 +58,7 @@ nav:
     - Dariusz Samól: uczestnicy/dariusz_samol.md
     - Dawid: uczestnicy/dawid.md
     - Grzegorz: uczestnicy/grzegorz.md
+    - Grzegorz Jaworucki: uczestnicy/grzegorz_jaworucki.md
     - Kacper Szaruga: uczestnicy/kacper_szaruga.md
     - Maciej Lubaszka: uczestnicy/maciej_lubaszka.md
     - Natalia Swojak: uczestnicy/natalia_swojak.md
