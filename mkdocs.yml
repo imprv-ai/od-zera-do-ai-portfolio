@@ -27,6 +27,7 @@ nav:
     - Dokładna Analiza EDA Danych z Półmaratonu we Wrocławiu 2023: projects/eda_wroclaw_halfmarathon/eda_extensive_with_video_comment/index.md
     - "Tajemnice Wrocławskiego Półmaratonu 2023: Analiza EDA": projects/eda_wroclaw_halfmarathon/eda_with_passion/index.md
     - "Fascynująca Analiza EDA Półmaratonu Wrocławskiego 2023": projects/eda_wroclaw_halfmarathon/eda_edge_cases/index.md
+    - "Porównanie Półmaratonu: Edycje 2023 vs 2024": projects/eda_wroclaw_halfmarathon/eda_tomasz_waniek_halfmarathon/index.md
 
   - Irysy:
     - O projekcie: projects/iris/index.md
@@ -67,3 +68,4 @@ nav:
     - Karol Zdańkowski: uczestnicy/karol_zdankowski.md
     - Michał (MB): uczestnicy/mb.md
     - Michał Pecyna: uczestnicy/michal_pecyna.md
+    - Tomasz Waniek: uczestnicy/tomasz_waniek.md
