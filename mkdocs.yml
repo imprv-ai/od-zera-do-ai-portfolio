@@ -61,11 +61,15 @@ nav:
     - O projekcie: projects/half_marathon_app/index.md
     - Predicting time: projects/half_marathon_app/predicting_time/index.md
 
+  - Własne projekty:
+    - Pomocnik dla sklepu spożywczego: projects/own_projects/grocery_store_helper/index.md
+
   - Uczestnicy:
     - Andrzej: uczestnicy/andrzej.md
     - Dariusz Samól: uczestnicy/dariusz_samol.md
     - Dawid: uczestnicy/dawid.md
     - Grzegorz: uczestnicy/grzegorz.md
+    - Grzegorz Czopiński: uczestnicy/grzegorz_czopinski.md
     - Grzegorz Jaworucki: uczestnicy/grzegorz_jaworucki.md
     - Kacper Szaruga: uczestnicy/kacper_szaruga.md
     - Maciej Lubaszka: uczestnicy/maciej_lubaszka.md
