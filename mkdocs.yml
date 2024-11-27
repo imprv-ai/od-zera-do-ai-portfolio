@@ -49,10 +49,17 @@ nav:
     - O projekcie: projects/survey_overview_app/index.md
     - Kolor i ujmująca prostota: projects/survey_overview_app/colors_and_simplicity/index.md
     - Analizuj, Łącz, Odkrywaj!: projects/survey_overview_app/analyze_connect_discover/index.md
+    - Polowanie na dane - prosty i efektywny sposób eksploracji danych: projects/survey_overview_app/data_hunter/index.md
+    - Sedes: projects/survey_overview_app/sedes/index.md
+    - Aplikacja do przeglądu wyników ankiet - niezwykłe wizualizacje: projects/survey_overview_app/incredible_visualizations/index.md
 
   - Pomagacz językowy:
     - O projekcie: projects/language_helper_app/index.md
     - Kompletne narzędzie do nauki języków obcych: projects/language_helper_app/complete_approach/index.md
+
+  - Aplikacja do obliczania szacowanego czasu przebiegnięcia półmaratonu:
+    - O projekcie: projects/half_marathon_app/index.md
+    - Predicting time: projects/half_marathon_app/predicting_time/index.md
 
   - Uczestnicy:
     - Andrzej: uczestnicy/andrzej.md
@@ -65,7 +72,10 @@ nav:
     - Natalia Swojak: uczestnicy/natalia_swojak.md
     - Rafał Ney: uczestnicy/rafal_ney.md
     - Patryk: uczestnicy/patryk.md
+    - Piotr: uczestnicy/piotr.md
     - Karol Zdańkowski: uczestnicy/karol_zdankowski.md
+    - Mariusz: uczestnicy/mariusz.md
     - Michał (MB): uczestnicy/mb.md
     - Michał Pecyna: uczestnicy/michal_pecyna.md
+    - Mateusz Nowakowski: uczestnicy/mateusz_nowakowski.md
     - Tomasz Waniek: uczestnicy/tomasz_waniek.md
