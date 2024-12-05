@@ -43,7 +43,8 @@ nav:
     - "Analiza Danych z Titanica: Wiek, Płeć i Szalupy Ratunkowe": projects/titanic/eda_different_approach/index.md
     - "EDA Odkrywanie Pojedynczych Zmiennych": projects/titanic/eda_variables_dependency/index.md
     - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
-    - "Analiza Danych z Titanica: Odkryj Historię na Nowo": projects/titanic/eda_by_grzegorz_jaworucki/index.md
+    - "Odkryj Historię na Nowo": projects/titanic/eda_by_grzegorz_jaworucki/index.md
+    - "Niesamowite Wizualizacje i Transformacje Danych": projects/titanic/eda_by_jakub_klosinski/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
@@ -83,3 +84,4 @@ nav:
     - Michał Pecyna: uczestnicy/michal_pecyna.md
     - Mateusz Nowakowski: uczestnicy/mateusz_nowakowski.md
     - Tomasz Waniek: uczestnicy/tomasz_waniek.md
+    - Jakub Kłosiński: uczestnicy/jakub_klosinski.md
