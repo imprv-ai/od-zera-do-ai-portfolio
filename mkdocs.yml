@@ -45,6 +45,7 @@ nav:
     - "Analiza Danych z Titanica - Odkrycia Grzegorza": projects/titanic/eda_by_grzegorz/index.md
     - "Odkryj Historię na Nowo": projects/titanic/eda_by_grzegorz_jaworucki/index.md
     - "Niesamowite Wizualizacje i Transformacje Danych": projects/titanic/eda_by_jakub_klosinski/index.md
+    - "Innowacyjna Analiza Danych z Titanica": projects/titanic/eda_by_artur_porochonski/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
