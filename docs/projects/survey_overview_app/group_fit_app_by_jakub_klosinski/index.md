@@ -1,5 +1,5 @@
 
-# Aplikcja AI Group Fit - Dopasowanie do Grupy!
+# Aplikacja AI Group Fit - Dopasowanie do Grupy!
 
 **Autor**: [Jakub Kłosiński](/od-zera-do-ai-portfolio/uczestnicy/jakub_klosinski)
 
