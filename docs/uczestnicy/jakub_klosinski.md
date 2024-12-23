@@ -8,4 +8,4 @@ Absolwent AWF, przedsiębiorca, trener, zawodnik. Posiadam szeroką wiedzę i do
 ## Projekty
 
 - [Analiza Danych z Titanica: Wizualizacje i Transformacje Danych](/od-zera-do-ai-portfolio/projects/titanic/eda_by_jakub_klosinski/)
-
+- [Aplikcja AI Group Fit - Dopasowanie do Grupy](/od-zera-do-ai-portfolio/projects/survey_overview_app/group_fit_app_by_jakub_klosinski/)
