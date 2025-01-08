@@ -35,6 +35,7 @@ nav:
     - "Fascynująca Analiza Danych EDA Irysów: Eksploracja Domenowa": projects/iris/eda_with_domain_exploration/index.md
     - "Skrupulatna Analiza Danych EDA zbioru o Irysach" : projects/iris/eda_by_mb/index.md
     - "Analiza Danych EDA Irysów: Eksploracja Domenowa" : projects/iris/eda_by_michal_pecyna/index.md
+    - "Fenomenalna Analiza Danych EDA Irysów" : projects/iris/eda_by_andrzej_czarnecki/index.md
 
   - Titanic:
     - O projekcie: projects/titanic/index.md
@@ -88,5 +89,6 @@ nav:
     - Tomasz Waniek: uczestnicy/tomasz_waniek.md
     - Jakub Kłosiński: uczestnicy/jakub_klosinski.md
     - Artur Porochoński: uczestnicy/artur_porochonski.md
+    - Andrzej Czarnecki: uczestnicy/andrzej_czarnecki.md
 
   - Aleja Gwiazd: hall_of_fame/index.md
