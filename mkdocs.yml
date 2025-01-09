@@ -56,6 +56,7 @@ nav:
     - Sedes: projects/survey_overview_app/sedes/index.md
     - Aplikacja do przeglądu wyników ankiet - niezwykłe wizualizacje: projects/survey_overview_app/incredible_visualizations/index.md
     - Aplikacja AI Group Fit: projects/survey_overview_app/group_fit_app_by_jakub_klosinski/index.md
+    - Interaktywna aplikacja do analizy wyników ankiety powitalnej: projects/survey_overview_app/interactive_survey_analysis_by_grzegorz_jaworucki/index.md
 
   - Pomagacz językowy:
     - O projekcie: projects/language_helper_app/index.md

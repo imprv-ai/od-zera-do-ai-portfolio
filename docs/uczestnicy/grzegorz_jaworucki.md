@@ -7,7 +7,9 @@ Mam 20 letnie doświadczenie w kierowaniu zespołami w branży hotelarskiej, a o
 
 ## Projekty
 
-- [Tajemnice Titanica - fascynująca analiza danych z legendarnego rejsu: ](/od-zera-do-ai-portfolio/projects/titanic/eda_by_grzegorz_jaworucki/)
+- [Tajemnice Titanica - fascynująca analiza danych z legendarnego rejsu](/od-zera-do-ai-portfolio/projects/titanic/eda_by_grzegorz_jaworucki/)
+
+- [Interaktywna aplikacja do analizy wyników ankiety powitalnej](/od-zera-do-ai-portfolio/projects/survey_overview_app/interactive_survey_analysis_by_grzegorz_jaworucki/)
 
 ## Umiejętności
 
