@@ -47,6 +47,7 @@ nav:
     - "Odkryj Historię na Nowo": projects/titanic/eda_by_grzegorz_jaworucki/index.md
     - "Niesamowite Wizualizacje i Transformacje Danych": projects/titanic/eda_by_jakub_klosinski/index.md
     - "Innowacyjna Analiza Danych z Titanica": projects/titanic/eda_by_artur_porochonski/index.md
+    - "Odkrywając Tajemnice Titanica: Analiza Danych i Wizualizacje": projects/titanic/eda_by_patrycja_ptaszek/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
@@ -91,5 +92,6 @@ nav:
     - Jakub Kłosiński: uczestnicy/jakub_klosinski.md
     - Artur Porochoński: uczestnicy/artur_porochonski.md
     - Andrzej Czarnecki: uczestnicy/andrzej_czarnecki.md
+    - Patrycja Ptaszek: uczestnicy/patrycja_ptaszek.md
 
   - Aleja Gwiazd: hall_of_fame/index.md
