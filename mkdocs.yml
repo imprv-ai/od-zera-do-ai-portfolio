@@ -50,6 +50,7 @@ nav:
     - "Innowacyjna Analiza Danych z Titanica": projects/titanic/eda_by_artur_porochonski/index.md
     - "Odkrywając Tajemnice Titanica: Analiza Danych i Wizualizacje": projects/titanic/eda_by_patrycja_ptaszek/index.md
     - "Titanic: Co Mówią Dane?": projects/titanic/eda_by_artur_lipinski/index.md
+    - "Analiza Danych z Titanica: Odkryj Nowe Perspektywy": projects/titanic/eda_by_marita/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
@@ -98,5 +99,6 @@ nav:
     - Hubert Drozda: uczestnicy/hubert_drozda.md
     - Jarosław Dziedziński: uczestnicy/jaroslaw_dziedzinski.md
     - Artur Lipiński: uczestnicy/artur_lipinski.md
+    - Marita: uczestnicy/marita.md
 
   - Aleja Gwiazd: hall_of_fame/index.md
