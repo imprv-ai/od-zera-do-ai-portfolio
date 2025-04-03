@@ -37,6 +37,7 @@ nav:
     - "Analiza Danych EDA Irysów: Eksploracja Domenowa" : projects/iris/eda_by_michal_pecyna/index.md
     - "Fenomenalna Analiza Danych EDA Irysów" : projects/iris/eda_by_andrzej_czarnecki/index.md
     - "Kwiatowa Opowieść: Analiza Irysów dla Amelki" : projects/iris/eda_by_jaroslaw_dziedzinski/index.md
+    - "Analiza Danych EDA Irysów: od surowych danych do wniosków" : projects/iris/eda_by_iwona_borkowska/index.md
 
   - Titanic:
     - O projekcie: projects/titanic/index.md
@@ -100,5 +101,6 @@ nav:
     - Jarosław Dziedziński: uczestnicy/jaroslaw_dziedzinski.md
     - Artur Lipiński: uczestnicy/artur_lipinski.md
     - Marita: uczestnicy/marita.md
+    - Iwona Borkowska: uczestnicy/iwona_borkowska.md
 
   - Aleja Gwiazd: hall_of_fame/index.md
