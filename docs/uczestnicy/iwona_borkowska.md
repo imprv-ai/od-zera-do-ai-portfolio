@@ -16,3 +16,4 @@ Cenię wartości takie jak szczerość i lojalność. W relacjach zawodowych sta
 ## Projekty
 
 - [Analiza Danych EDA Irysów: od surowych danych do wniosków](/od-zera-do-ai-portfolio/projects/iris/eda_by_iwona_borkowska/)
+- [Głębokie Zanurzenie w Dane: Analiza Titanica](/od-zera-do-ai-portfolio/projects/titanic/eda_by_iwona_borkowska/)
