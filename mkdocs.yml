@@ -52,6 +52,7 @@ nav:
     - "Odkrywając Tajemnice Titanica: Analiza Danych i Wizualizacje": projects/titanic/eda_by_patrycja_ptaszek/index.md
     - "Titanic: Co Mówią Dane?": projects/titanic/eda_by_artur_lipinski/index.md
     - "Analiza Danych z Titanica: Odkryj Nowe Perspektywy": projects/titanic/eda_by_marita/index.md
+    - "Głębokie Zanurzenie w Dane: Analiza Titanica": projects/titanic/eda_by_iwona_borkowska/index.md
 
   - Aplikacja do przeglądu wyników ankiety powitalnej:
     - O projekcie: projects/survey_overview_app/index.md
