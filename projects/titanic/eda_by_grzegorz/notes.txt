@@ -1,0 +1,3 @@
+analiza danych z Titanic przeprowadzona przez Grzegorza
+ciekawe spojrzenie na pojedyncze zmienne
+bardzo interesujące podejście do korelacji

@@ -1,0 +1,6 @@
+analiza danych z titanica
+ciekawe, różnorodne wykresy
+dodanie nowych kolumn podczas transformacji
+wspaniałe zdjęcia wprowadzające klimat tamtych wydarzeń
+mega porównania, spostrzeżenia, wnioski oraz podsumowanie
+fajna analiza wyjątków w danych
