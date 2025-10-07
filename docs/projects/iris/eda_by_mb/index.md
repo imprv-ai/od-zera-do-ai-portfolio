@@ -5,7 +5,7 @@ Odkryj fascynujący świat analizy danych dzięki projektowi Michała, który wn
 
 **Autor**: [Michał](/od-zera-do-ai-portfolio/uczestnicy/mb)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

@@ -5,7 +5,7 @@ Zapraszamy do odkrycia fascynującej analizy danych z legendarnego Titanica, prz
 
 **Autor**: [Artur Lipiński](/od-zera-do-ai-portfolio/uczestnicy/artur_lipinski)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

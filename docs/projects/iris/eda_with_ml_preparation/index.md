@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z wyjątkową analizą eksploracyjną danych (EDA)
 
 **Autor**: [Natalia Swojak](/od-zera-do-ai-portfolio/uczestnicy/natalia_swojak)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

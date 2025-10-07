@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z fascynującą analizą danych z legendarnego rej
 
 **Autor**: [Patryk](/od-zera-do-ai-portfolio/uczestnicy/patryk)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

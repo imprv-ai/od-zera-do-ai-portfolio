@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z wspaniałą, gruntownie wykonaną analizą ekspl
 
 **Autor**: [Natalia Swojak](/od-zera-do-ai-portfolio/uczestnicy/natalia_swojak)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

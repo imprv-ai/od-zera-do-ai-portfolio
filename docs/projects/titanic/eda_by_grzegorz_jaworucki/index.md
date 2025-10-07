@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z fascynującym projektem analizy danych z legenda
 
 **Autor**: [Grzegorz Jaworucki](/od-zera-do-ai-portfolio/uczestnicy/grzegorz_jaworucki)
 
-<a href="GrzegorzJa.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="GrzegorzJa.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

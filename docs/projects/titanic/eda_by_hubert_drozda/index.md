@@ -11,7 +11,7 @@ Liczby opowiadają historię – warto sprawdzić, kto miał największe szanse 
 
 **Autor**: [Hubert Drozda](/od-zera-do-ai-portfolio/uczestnicy/hubert_drozda)
 
-<a href="26_titanic_final.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="26_titanic_final.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

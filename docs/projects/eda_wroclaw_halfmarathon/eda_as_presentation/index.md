@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się ze szczegółową analizą danych z Półmaratonu 
 
 **Autor**: [Dariusz Samól](/od-zera-do-ai-portfolio/uczestnicy/dariusz_samol)
 
-<a href="eda.pdf" class="md-button md-button--primary">Pobierz PDF</a>
+<a href="eda.pdf" class="md-button md-button--primary" download>Pobierz PDF</a>
 
 <iframe
     id="content"

@@ -5,7 +5,7 @@ Zapraszamy do odkrycia fascynującego świata danych z Titanica, przedstawionego
 
 **Autor**: [Iwona Borkowska](/od-zera-do-ai-portfolio/uczestnicy/iwona_borkowska)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"
