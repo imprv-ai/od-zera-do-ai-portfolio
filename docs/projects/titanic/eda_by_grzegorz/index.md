@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z unikalnym projektem analizy danych z Titanica, p
 
 **Autor**: [Grzegorz](/od-zera-do-ai-portfolio/uczestnicy/grzegorz)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

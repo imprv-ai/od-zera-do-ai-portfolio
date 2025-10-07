@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z naszym projektem, który koncentruje się na szc
 
 **Autor**: [Maciej Lubaszka](/od-zera-do-ai-portfolio/uczestnicy/maciej_lubaszka)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

@@ -5,7 +5,7 @@ Przedstawiamy wyjątkowy projekt stworzony przez jednego z naszych utalentowanyc
 
 **Autor**: [Rafal Ney](/od-zera-do-ai-portfolio/uczestnicy/rafal_ney)
 
-<a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

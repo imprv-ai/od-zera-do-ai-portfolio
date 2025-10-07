@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z fascynującym projektem analizy danych z legenda
 
 **Autor**: [Marita](/od-zera-do-ai-portfolio/uczestnicy/marita)
 
-<a href="Titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Titanic.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

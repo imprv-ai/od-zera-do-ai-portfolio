@@ -5,7 +5,7 @@ Poznaj niezwykłą historię Amelki i jej taty, który z miłości do córki pos
 
 **Autor**: [Jarosław Dziedziński](/od-zera-do-ai-portfolio/uczestnicy/jaroslaw_dziedzinski)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

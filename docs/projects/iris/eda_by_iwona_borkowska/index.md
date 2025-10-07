@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z projektem autorstwa Iwony, który w przystępny 
 
 **Autor**: [Iwona Borkowska](/od-zera-do-ai-portfolio/uczestnicy/iwona_borkowska)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

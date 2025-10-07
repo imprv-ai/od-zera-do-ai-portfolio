@@ -5,7 +5,7 @@ Zapraszamy do zapoznania się z wyjątkowym projektem autorstwa Rafała, który 
 
 **Autor**: [Rafał Ney](/od-zera-do-ai-portfolio/uczestnicy/rafal_ney)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

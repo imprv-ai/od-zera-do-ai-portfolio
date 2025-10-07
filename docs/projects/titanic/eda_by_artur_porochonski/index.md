@@ -5,7 +5,7 @@ Odkryj fascynujące spojrzenie na dane z legendarnego Titanica dzięki rzetelnej
 
 **Autor**: [Artur Porochoński](/od-zera-do-ai-portfolio/uczestnicy/artur_porochonski)
 
-<a href="Artur.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Artur.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

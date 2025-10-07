@@ -5,7 +5,7 @@ Odkryj fascynujący świat analizy danych z projektem autorstwa Michała, który
 
 **Autor**: [Michał Pecyna](/od-zera-do-ai-portfolio/uczestnicy/michal_pecyna)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

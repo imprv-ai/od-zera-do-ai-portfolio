@@ -5,7 +5,7 @@ Odkryj skrupulatną analizę danych irysów, której autorem jest Andrzej. Proje
 
 **Autor**: [Andrzej Czarnecki](/od-zera-do-ai-portfolio/uczestnicy/andrzej_czarnecki)
 
-<a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="iris.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

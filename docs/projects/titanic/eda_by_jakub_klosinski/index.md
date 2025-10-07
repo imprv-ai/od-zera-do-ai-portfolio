@@ -5,7 +5,7 @@ Odkryj fascynujący świat analizy danych z legendarnego Titanica. Projekt preze
 
 **Autor**: [Jakub Kłosiński](/od-zera-do-ai-portfolio/uczestnicy/jakub_klosinski)
 
-<a href="Jakub71K.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="Jakub71K.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"

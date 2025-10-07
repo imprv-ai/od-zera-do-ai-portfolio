@@ -5,7 +5,7 @@ Zapraszamy do fascynującej podróży w czasie, gdzie za pomocą zaawansowanej a
 
 **Autor**: [Patrycja Ptaszek](/od-zera-do-ai-portfolio/uczestnicy/patrycja_ptaszek)
 
-<a href="_PP_titanic_4_2.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="_PP_titanic_4_2.ipynb" class="md-button md-button--primary" download>Pobierz Notebook</a>
 
 <iframe
     id="content"
