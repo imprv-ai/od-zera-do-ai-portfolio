@@ -1,0 +1,5 @@
+analiza danych EDA irysów z wykorzystaniem eksploracji domenowej
+autorem jest Iwona
+prosty, czytelny kod
+wspaniałe wizualizacje
+rewelacyjne podsumowanie

@@ -1,0 +1,4 @@
+analiza danych z titanica
+ciekawe, różnorodne wykresy
+dodanie nowych kolumn podczas transformacji
+

@@ -1,0 +1,4 @@
+Wspaniała, gruntownie wykonana analiza EDA danych z Titanica.
+Zawiera wiele ciekawych wniosków, które mogą być przydatne w wykorzystaniu w modelowaniu.
+Możemy odkryć zaleźności pomiędzy kolumnami, a także zobaczyć jakie są najważniejsze cechy w naszym zbiorze danych.
+Dużo kreatowności np. w skonstruowaniu tzw. `survival score`

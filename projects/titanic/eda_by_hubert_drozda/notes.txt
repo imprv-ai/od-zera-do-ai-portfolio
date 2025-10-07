@@ -1,0 +1,9 @@
+Analiza danych z titanica
+Interesujące wizualizacje demograficzne - Wykresy ukazujące różnice w przeżywalności między grupami demograficznymi.
+Efektywne użycie grupowania danych - Skuteczne grupowanie danych według kategorii i rodziny.
+Zastosowanie transformacji danych - Przemyślane przekształcenia danych dla lepszej analizy.
+Wnikliwe obserwacje dotyczące płci - Szczegółowe spostrzeżenia na temat różnic w przeżywalności między płciami.
+Analiza wpływu klasy biletu - Dogłębna analiza wpływu klasy biletu na przeżywalność.
+Zróżnicowane podejście do grup wiekowych - Różnorodne podejście do analizy grup wiekowych.
+Podkreślenie roli rodziny - Wyróżnienie wpływu posiadania rodziny na przeżywalność.
+

@@ -1,0 +1,4 @@
+Projekt stworzony przez Kacpra Szarugę.
+Kompletne narzędzie do nauki języków obcych.
+Aplikacja daje wiele możliwości pracy z różnymi językami oraz sprawdzenia swojej wiedzy.
+Nie tylko pozwala tłumaczyć słowa i frazy i pełne zdania ale dodatkowo generuje informacje pozwlajaće zrozumieć szczegóły gramatyczne
